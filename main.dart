@@ -1,2 +1,5 @@
 print("hello world!")
-main(){}
+main(){
+Block.storage="hi"
+dio.interceptor=dio()
+}
